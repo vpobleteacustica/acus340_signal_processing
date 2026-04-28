@@ -188,3 +188,11 @@ Se reconoce que, en algunos casos, los proyectos pueden no alcanzar un cierre co
 ### Lecturas complementarias
 - Soundscape Ecology (Farina)  
 - Sound Event Detection (IEEE Access review)
+
+### Datos del curso
+
+Debido al tamaño del dataset (~1.5 GB), los audios no están incluidos en este repositorio.
+
+Los datos han sido compartidos mediante enlace externo (WeTransfer).
+
+Una vez descargados, deben ubicarse en: data/audios/
