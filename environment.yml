@@ -1,0 +1,17 @@
+name: acus340_2026
+
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - scipy
+      - pandas
+      - matplotlib
+      - seaborn
+      - librosa
+      - soundfile
+      - scikit-learn
+      - umap-learn
+      - jupyter
+      - ipykernel
